@@ -1,8 +1,5 @@
 ## About Me
-Tsukuba University
-Aspiring MARL Researcher
+Tsukuba University MARL Researcher
 
 ## Research Area
-- Robotics of Soccer
-- Emergence Language
-- Game AI
+- MARL
