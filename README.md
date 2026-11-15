@@ -1,10 +1,12 @@
-## About Me
-Tsukuba University MARL Researcher
+## プロフィール
+山内健司
 
-## Research Area
+筑波大学　情報学群情報メディア創成学類　
+若林研究室
+
+## 研究分野
 - MARL
 
-## Current Research Topics
-- Curriculum Learning
+## 研究テーマ
+- カリキュラム学習
 
-https://www.semanticscholar.org/paper/Reverse-Curriculum-Generation-for-Reinforcement-Florensa-Held/9862caed8ee93321c78b0196e0b7eef516b545ba
